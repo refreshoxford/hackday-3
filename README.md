@@ -11,4 +11,4 @@ Possible Projects:
 * Requirements.io
 * Classy/CCBV/libpydoc
 * [Yet Another RSS Reader](https://github.com/refreshoxford/YARR)
-* [Lunch Menu](http://missionburrito.co.uk/food/menu/)
+* [Lunch Menu](http://missionburrito.co.uk/food/menu/) -> email to george@ghickman.co.uk
