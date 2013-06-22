@@ -10,3 +10,4 @@ Possible Projects:
 * Django Haystack
 * Requirements.io
 * Classy/CCBV/libpydoc
+* [Yet Another RSS Reader](https://github.com/refreshoxford/YARR)
