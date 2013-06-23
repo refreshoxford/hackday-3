@@ -4,11 +4,10 @@ Hackday 3
 Refresh Oxford Hackday: 22nd June 2013
 
 
-Possible Projects:
+Projects Worked on:
 * Django
-* Django REST Framework
-* Django Haystack
-* Requirements.io
-* Classy/CCBV/libpydoc
+* [Requirements.io](http://requirements-io.herokuapp.com)
+* [CCBV](http://ccbv.co.uk)
+* [Classify](http://github.com/ghickman/classify)
 * [Yet Another RSS Reader](https://github.com/refreshoxford/YARR)
-* [Lunch Menu](http://missionburrito.co.uk/food/menu/) -> email to george@ghickman.co.uk
+* [Add Link to Trello](https://github.com/omgmog/chrome-add-link-to-trello)
