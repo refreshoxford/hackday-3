@@ -1,7 +1,7 @@
 Hackday 3
 =========
 
-[http://www.refreshoxford.co.uk/ Refresh Oxford] Hackday: 22nd June 2013
+[Refresh Oxford](http://www.refreshoxford.co.uk/) Hackday: 22nd June 2013
 
 
 Projects Worked on:
